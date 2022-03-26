@@ -1,8 +1,0 @@
-
-Migrate the following private repo and Merge it here 
-
-Github Repository: 
-https://github.com/yjyjmh/skeleton-in-the-cupboard.git 
-
-API Token: 
-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
