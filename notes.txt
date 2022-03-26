@@ -5,4 +5,4 @@ Github Repository:
 https://github.com/yjyjmh/skeleton-in-the-cupboard.git 
 
 API Token: 
-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
+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
